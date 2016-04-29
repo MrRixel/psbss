@@ -1,8 +1,4 @@
-super_me/launch.sh
-53ae828  on Feb 8
-@Josepdal Josepdal "First Commit"
-2 contributors @Josepdal @DBTeam-ES
-RawBlameHistory    Executable File  116 lines (93 sloc)  2.34 KB
+
 #!/usr/bin/env bash
 
 THIS_DIR=$(cd $(dirname $0); pwd)
